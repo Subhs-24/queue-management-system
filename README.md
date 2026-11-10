@@ -60,7 +60,7 @@ A C++17-based campus queue management system that allows students to order produ
 ---
 
 <p align="center">
-  Made with ❤️ using C++ 
+  Made using C++ 
   <br>
   <i>Making campus queues a little less crowded.</i> 🚀
 </p>
