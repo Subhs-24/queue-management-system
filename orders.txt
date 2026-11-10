@@ -1,0 +1,3 @@
+1001|Subh|2|Campus Cafe|Maggie|2|80|Collected|1793161748|30
+1002|Subh|1|Stationery|Notebook|1|35|Ready|1793161770|30
+1003|Subham|3|Health Store|Bandage|2|40|Ready|1793724071|30

@@ -1,0 +1,4 @@
+1|Stationery
+2|Campus Cafe
+3|Health Store
+4|Photocopy Centre
